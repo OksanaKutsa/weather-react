@@ -1,0 +1,9 @@
+.WeatherForecast-day {
+  margin-left: 5px;
+}
+.WeatherForecast-temperatures {
+  font-family: "Poppins", sans-serif;
+}
+.WeatherForecast-temperature-max {
+  margin-right: 5px;
+}

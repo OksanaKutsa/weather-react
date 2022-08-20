@@ -1,0 +1,17 @@
+.MainCities {
+  margin-top: 50px;
+  font-size: 25px;
+
+  text-align: center;
+}
+.MainCities a {
+  text-decoration: none;
+  color: #607eaa;
+  margin: 40px;
+  font-family: "Playfair Display", serif;
+}
+.MainCities a:hover {
+  text-decoration: underline;
+  color: cadetblue;
+  transition: all 150ms ease-in-out;
+}

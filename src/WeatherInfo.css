@@ -1,0 +1,19 @@
+li {
+  list-style: none;
+}
+.WeatherInfo {
+  margin-left: 20px;
+}
+.humidityWind {
+  margin-left: -170px;
+}
+.WeatherInfo ul {
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  color: #272142;
+}
+.WeatherInfo h1 {
+  font-weight: bold;
+}
+.WeatherTemperature {
+}
