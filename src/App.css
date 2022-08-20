@@ -5,3 +5,16 @@
 body {
   font-family: "Playfair Display", serif;
 }
+footer a {
+  text-decoration: none;
+  color: #607eaa;
+}
+footer a:hover {
+  color: cadetblue;
+  transition: all 150ms ease-in-out;
+  text-decoration: overline;
+}
+footer {
+  text-align: center;
+  margin-top: -20px;
+}

@@ -12,6 +12,16 @@ function App() {
           <MainCities />
         </Container>
       </Container>
+      <footer>
+        <a
+          href="https://github.com/OksanaKutsa/weather-react"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Open-source code
+        </a>{" "}
+        by Oksana Kutsa
+      </footer>
     </div>
   );
 }
